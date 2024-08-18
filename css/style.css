@@ -1,0 +1,75 @@
+body{
+    background-color: white;
+    color: white;
+}
+.main{
+    background-color: lightblue;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.card{
+    display: flex;
+    gap: 10px;
+}
+.hero{
+    background-color: purple;
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+    height: 200px;
+}
+.sidebar{
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+    height: 200px;
+    background-color: lightgreen;
+}
+.content{
+    
+}
+.main-content{
+    background-color: rgb(240, 170, 41);
+    width: 166%;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+.extra-content{
+    background-color: gray;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    width: 166%;
+    height: 100px;
+}
+.relate{
+    display: flex;
+    gap: 10px;
+}
+.related-image{
+    background-color: rgb(46, 153, 46);
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    width: 90%;
+    height: 90px;
+}
+.relate-posts{
+    background-color: pink;
+    margin: 20px;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    height: 90px;
+}
+.footer{
+    background-color: orange;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
